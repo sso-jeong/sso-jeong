@@ -1,5 +1,3 @@
-### 👋 안녕하세요! 5년차 QA 출신, 백엔드 개발자 <strong>소정</strong>입니다.
-
 ### 🤞 Nice way to meet me
 <p>
   <a href="https://ss-o.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
