@@ -78,11 +78,3 @@
 </div>
 
 ---
-
-### 📫 Contact
-
-- 📧 Email: sojeong5167@gmail.com
-- 📒 Notion or Blog: [https://ss-o.tistory.com/](https://ss-o.tistory.com/)
-- 💬 언제든지 코드 리뷰, 기술 질문 환영합니다!
-
----
