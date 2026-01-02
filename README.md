@@ -8,13 +8,13 @@
 
 ### 🇰🇷 About Me (한글)
 
-- 🎯 **SQA → 백엔드 개발자 전직 중**
+- 🎯 **서비스 QA | 자동화 QA | 안정성 QA**
 - 🧪 금융/임베디드 POC 프로젝트에서 QA 및 품질 자동화 경험
 - 📝 기술 블로그 및 Notion 기록을 좋아함
 
 ### 🇺🇸 About Me (English)
 
-- 🎯 Transitioning from SQA to Backend Developer
+- 🎯 Service/Platform QA | Test Automation | Reliability
 - 🧪 Worked on QA and test automation in financial and embedded POC projects
 - 📝 Passionate about documenting tech insights via Notion and technical blogs
 
@@ -51,7 +51,7 @@
 
 ### 💪 Experience 💪
 - 티맥스소프트 Backend Developer (2025.07 ~ )
-- 티맥스소프트 SQA Manager (2020.12.15 ~ 2025.04.30)
+- 티맥스소프트 SQA Manager (2020.12.15 ~ 2025.06)
 - 디지털컨버전스 자바(JAVA) & 스프링(Spring) 프레임워크 개발자 양성 과정 (2020.07.01 ~ 2020.12.14)
 - (주)지에스티 기술 개발 본부 인턴 근무 (2019.08.12 ~ 2020.01.31)
 - 교내 사회맞춤형 산학협력 선도대학(LINC+) 육성사업 수료 (2017.08 ~ 2020.02.21)
