@@ -1,10 +1,7 @@
 ### 🤞 Nice way to meet me
 <p>
   <a href="https://ss-o.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="sojeong5167@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sojeong5167@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-
----
 
 ## KR About Me
 - 🎯 서비스/플랫폼 QA | 테스트 자동화 | 안정성·신뢰성 QA
@@ -17,11 +14,9 @@
 - 🤝 Lead issue triage/RCA with reproducible evidence and logs to improve release confidence
 
 ## Featured Portfolio
-- QA Strategy Pack → https://github.com/sso-jeong/qa-strategy-pack
-- Incident & RCA Pack → https://github.com/sso-jeong/incident-rca-pack
-- Regression Pipeline Template → https://github.com/sso-jeong/regression-pipeline-template
-
----
+- QA Strategy Pack → 🔗[qa-strategy-pack](https://github.com/sso-jeong/qa-strategy-pack)
+- Incident & RCA Pack → 🔗[incident-rca-pack](https://github.com/sso-jeong/incident-rca-pack)
+- Regression Pipeline Template → 🔗[regression-pipeline-template](https://github.com/sso-jeong/regression-pipeline-template)
 
 ## 🛠️ Tech Stack
 - **QA / Automation**: Postman, Newman, JMeter(non-GUI)
@@ -30,9 +25,7 @@
 - **DB**: Oracle, MySQL, DB2
 - **Backend (for collaboration)**: Java, Spring Boot, MyBatis, JPA, Kafka
 
----
-
-### 💪 Experience
+## 💪 Experience
 - **TmaxSoft — Service/Platform QA (SQA)** (2020.12 ~ 2025.06)  
   - Postman 컬렉션 표준화 → **Newman + Jenkins** 회귀 자동화 파이프라인 구축/운영 (리드타임 **30~50% 단축**)  
   - **JMeter non-GUI** 기반 부하/성능 측정 자동화 및 결과 공유 템플릿 정착  
@@ -53,9 +46,7 @@
 
 </details>
 
----
-
-### 💻 Projects (Selected QA Case Studies, anonymized)
+## 💻 Projects (Selected QA Case Studies, anonymized)
 - **QA Strategy & Release Quality Gate (Smoke / Checklist / Go-No-Go)** (2022 ~ 2025)  
   - 배포 전후 품질 상태를 종합 판단하기 위한 체크리스트/헬스체크/롤백 절차를 정리하고 운영에 적용  
   - 배포 직후 스모크 자동 실행으로 초기 진단 속도 개선 및 릴리즈 리스크 감소  
@@ -86,9 +77,10 @@
 - 2017 LINC+ 연합 캡스톤 디자인 경진대회 우수상 (2018.01.18)
 
 </details>
----
 
-### 📌 2026 목표: 매일 1문제 · BOJ Silver 달성
+## 📌 Certification
+- 정보처리기사
+
+
+## 📌 2026 목표: 매일 1문제 · BOJ Silver 달성
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=th21&cache=20260102)](https://solved.ac/profile/th21)
-
----
